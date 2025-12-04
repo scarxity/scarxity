@@ -7,8 +7,8 @@
 ###
 
 <div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=vinsa61&show_icons=true&theme=dracula&hide=stars&show=prs_merged&hide_rank=true" height="150" alt="stats"  /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinsa61&locale=en&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula&hide_border=false&card_width=320" height="150" alt="languages graph"  /> 
+ <img src="https://github-readme-stats.vercel.app/api?username=scarxity&show_icons=true&theme=dracula&hide=stars&show=prs_merged&hide_rank=true" height="150" alt="stats"  /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarxity&locale=en&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula&hide_border=false&card_width=320" height="150" alt="languages graph"  /> 
   <img src="https://streak-stats.demolab.com?user=vinsa61&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
