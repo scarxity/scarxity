@@ -9,7 +9,7 @@
 <div align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=scarxity&show_icons=true&theme=dracula&hide=stars&show=prs_merged&hide_rank=true" height="150" alt="stats"  /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarxity&locale=en&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula&hide_border=false&card_width=320" height="150" alt="languages graph"  /> 
-  <img src="https://streak-stats.demolab.com?user=vinsa61&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=scarxity&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vinsa61/vinsa61/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/scarxity/scarxity/output/snake.svg" alt="Snake animation" />
 
 ###
 
